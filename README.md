@@ -1,4 +1,4 @@
-# MCP-Notion Interface
+# AutoGen-MCP Notion Workspace Agent
 
 A production-ready agentic AI system that integrates Notion workspace management with Microsoft AutoGen multi-agent framework through Model Context Protocol (MCP).
 
